@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### This is Exequiel Maydana!
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue)]
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]
 
 Welcome to my GitHub page, I'm Exequiel and I'm currently looking for new challenges to make my skills stand out.
 
