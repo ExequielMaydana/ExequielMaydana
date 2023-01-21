@@ -2,6 +2,7 @@
 ### This is Exequiel Maydana!
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/hernan-exequiel-maydana-913a50218/)
+[![WebSite](https://img.shields.io/badge/-WebSite-orange)](https://portafolio-exedev.netlify.app/)
 
 Welcome to my GitHub page, I'm Exequiel and I'm currently looking for new challenges to make my skills stand out.
 
