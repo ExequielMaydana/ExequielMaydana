@@ -6,6 +6,8 @@
 
 Welcome to my GitHub page, I'm Exequiel and I'm currently looking for new challenges to make my skills stand out.
 
+<img align="right" alt="img" src="https://github.com/ExequielMaydana/ExequielMaydana/issues/1" width="50%" height="auto" />
+
 <!--
 **ExequielMaydana/ExequielMaydana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
