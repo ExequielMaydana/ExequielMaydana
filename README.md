@@ -1,4 +1,9 @@
 ### Hi there 👋
+### This is Exequiel Maydana!
+
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue)]
+
+Welcome to my GitHub page, I'm Exequiel and I'm currently looking for new challenges to make my skills stand out.
 
 <!--
 **ExequielMaydana/ExequielMaydana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
