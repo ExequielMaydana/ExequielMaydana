@@ -1,5 +1,5 @@
-### Hi there 👋
-### This is Exequiel Maydana!
+### Hola 👋
+### Este es el perfil de Exequiel Maydana!
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/hernan-exequiel-maydana-913a50218/)
 [![WebSite](https://img.shields.io/badge/-WebSite-orange)](https://portafolio-exedev.netlify.app/)
