@@ -10,10 +10,10 @@
 
 
 #### 🌱 Cosas en las que estoy trabajando actualmente:
-- Actualmente estoy colaborando como Desarrollador Frontend con React en Zaro estudio creativo [![Linkedin](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/company/zaroweb/)
+- Actualmente estoy colaborando como Desarrollador Frontend en Zaro estudio creativo [![Linkedin](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/company/zaroweb/)
 - Estoy estudiando inglel. 🤗
 - Estoy constantemente practicando JavaScript en webs como HackerRank, CodeSignal, Exercism, etc. 🙂
-- Tambien busco APIS y desarrollo proyectos con React. 🥰
+- Tambien busco APIS para desarrollar y no perder la magia. 🥰
 - Otro objetivo que tengo es dominar Tailwind CSS. 🧐
 
 #### :computer: Lenguajes de programación:
