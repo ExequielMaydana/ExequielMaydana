@@ -6,7 +6,7 @@ Exequiel Maydana</a></h1>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
-- 👨‍🎓 Bootcamp ARG Programa Programacion Web con Java y SQL - 2021 / Bootcamp Academlo Desarrollador Web Full-Stack - 2022  
+- 👨‍🎓 Bootcamp ARG Programa  `Programacion Web con Java y SQL` - 2021 / Bootcamp Academlo `Desarrollador Web Full-Stack` - 2022  
 - 👨‍💻 I love using Software as a solution for every `Problem`.
 - 🙆‍♂️ I’m currently learning `Ingles`.
 - 🤗 Always trying to be better than yesterday.
