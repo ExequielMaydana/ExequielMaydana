@@ -6,13 +6,10 @@ Exequiel Maydana</a></h1>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
-- :school: 
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking:.
+- 👨‍🎓 Bootcamp ARG Programa Programacion Web con Java y SQL - 2021 / Bootcamp Academlo Desarrollador Web Full-Stack - 2022  
+- 👨‍💻 I love using Software as a solution for every `Problem`.
+- 🙆‍♂️ I’m currently learning `Ingles`.
+- 🤗 Always trying to be better than yesterday.
 - :boom: You can visit [MY WEBSITE](https://exedeveloper.me/).
 <br>
 
