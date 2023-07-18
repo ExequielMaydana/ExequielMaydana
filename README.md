@@ -11,10 +11,16 @@ Exequiel Maydana</a></h1>
 - 🙆‍♂️ I’m currently learning `Ingles`.
 - 🤗 Always trying to be better than yesterday.
 - 🌐 You can visit [MY WEBSITE](https://exedeveloper.me/).
-<br>
+- 
+<br/>
+<br/>
 
 ## <p>Skills</p> 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,py,react,redux,nextjs,angular,nodejs,express,mongodb,mysql,postman,figma,materialui,tailwind,git,github,vscode,linux" />
+  </a>
+</p>
 
 
 <!--
