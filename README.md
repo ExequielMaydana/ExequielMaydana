@@ -10,7 +10,7 @@ Exequiel Maydana</a></h1>
 - 👨‍💻 I love using Software as a solution for every `Problem`.
 - 🙆‍♂️ I’m currently learning `Ingles`.
 - 🤗 Always trying to be better than yesterday.
-- :boom: You can visit [MY WEBSITE](https://exedeveloper.me/).
+- 🌐 You can visit [MY WEBSITE](https://exedeveloper.me/).
 <br>
 
 
