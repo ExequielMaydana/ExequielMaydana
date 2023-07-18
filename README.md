@@ -13,6 +13,7 @@ Exequiel Maydana</a></h1>
 - 🌐 You can visit [MY WEBSITE](https://exedeveloper.me/).
 <br>
 
+## <p>Skills</p> 
 
 
 
