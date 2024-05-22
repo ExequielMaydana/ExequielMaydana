@@ -17,7 +17,7 @@ Exequiel Maydana</a></h1>
 ## <p>Skills</p> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,react,redux,nextjs,nodejs,express,mongodb,postman,figma,materialui,tailwind,git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,express,mongodb,postman,figma,materialui,tailwind,git,github" />
   </a>
 </p>
 
