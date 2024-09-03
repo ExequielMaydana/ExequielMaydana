@@ -6,10 +6,16 @@ Exequiel Maydana</a></h1>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
-- 👨‍🎓 Bootcamp ARG Programa  `Programacion Web con Java y SQL` - 2021 / Bootcamp Academlo `Desarrollador Web Full-Stack` - 2022  
-- 👨‍💻 I love using Software as a solution for every `Problem`.
-- 🙆‍♂️ I’m currently learning `Ingles`.
-- 🤗 Always trying to be better than yesterday.
+- 👨‍🎓 Antecedentes educativos:
+    - Bootcamp ARG Programa Programación Web con Java y SQL - 2021
+    - Bootcamp Academlo Desarrollador Web Full-Stack - 2022  
+- 👨‍💻 Passionate Developer:
+    - I specialize in crafting high-quality web solutions that address real-world problems. With expertise in both frontend and backend development, I bring a comprehensive approach to every project. However, my true passion lies in frontend       
+      development, where I focus on creating exceptional user experiences. I'm committed to delivering innovative and scalable solutions that drive meaningful results for my clients.
+- 🌍 Language Proficiency:
+    - Currently improving my English skills to enhance communication with international clients and collaborators.
+- 🚀 Continuous Improvement:
+    - I believe in the power of constant learning and strive to be better than I was yesterday, both as a developer and as a professional.
 - 🌐 You can visit [MY WEBSITE](https://exequielmaydana.vercel.app/).
 <br/>
 <br/>
