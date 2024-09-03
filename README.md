@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Exequiel Maydana</a></h1>
-<h3 align="center">A passionate full-stack web developer with one year of experience. 🚀🌐</h3>
+<h3 align="center">Passionate full-stack web developer with more than two years of experience. 🚀🌐</h3>
 
 ## <p>About me</p> 
 
@@ -17,7 +17,7 @@ Exequiel Maydana</a></h1>
 ## <p>Skills</p> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,express,mongodb,postman,figma,materialui,tailwind,git,github" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,angular,nodejs,python,fastapi,express,mongodb,postman,figma,materialui,tailwind,git,github,gitlab" />
   </a>
 </p>
 
